@@ -1,0 +1,6 @@
+Epoch    W14       W24       W34
+Epoch1  -2.0       0.1       6.0
+Epoch2  2.6        0.9         6.2
+Epoch3  1         -29          6
+Epoch4  6         -28          6
+Epoch5  7         -28          6

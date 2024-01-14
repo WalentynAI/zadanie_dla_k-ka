@@ -1,0 +1,9 @@
+t Elem q l     Epoch1    Epoch2    Epoch3    Epoch4    Epoch5
+1 N 23 4       False     True      False     True      True
+2 N 18 3       False     True      False     True      True
+3 N 8 2       False     True      False     False      True
+4 N 200 30       False     True      False     True      True
+5 S 8 150       False     False      True     True      True
+6 S 30 350       True     False      True     True      True
+7 S 5 100       False     False      True     True      True
+8 S 10 200       False     False      True     True      True
